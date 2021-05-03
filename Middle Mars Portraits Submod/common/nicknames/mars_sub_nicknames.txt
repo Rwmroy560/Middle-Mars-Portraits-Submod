@@ -1,0 +1,10 @@
+#Mars Nicknames
+nick_white_hair = {
+	allow = {
+		NOT = { culture_group = arabic }
+		graphical_culture = noachisgfx
+	}
+	chance = {
+		factor = 2
+	}
+}
