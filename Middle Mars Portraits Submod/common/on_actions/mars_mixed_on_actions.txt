@@ -1,0 +1,6 @@
+# character
+on_birth = {
+	events = {
+		mars_culture_mix.1
+	}
+}

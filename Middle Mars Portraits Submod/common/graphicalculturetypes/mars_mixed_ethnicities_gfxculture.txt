@@ -1,0 +1,44 @@
+###By the Specialist
+
+# Skin tones are 0 (light), 1 (tan), 2 (dark) and 3 (black)
+# Mixed Culture Groups
+
+#Mixed Group
+altcelestiangfx = {
+	skin_tone = 1
+}
+altdaedgfx = {
+	skin_tone = 0
+}
+altelysiangfx = {
+	skin_tone = 0
+}
+alticariangfx = {
+	skin_tone = 1
+}
+altalbangfx = {
+	skin_tone = 2
+}
+altnoctiangfx = {
+	skin_tone = 0
+}
+alttitangfx = {
+	skin_tone = 2
+}
+altversiangfx = {
+	skin_tone = 2
+}
+altmarinergfx = {
+	skin_tone = 3
+}
+altwesterngfx = {
+	skin_tone = 0
+}
+
+altamenthgfx = {
+	skin_tone = 3
+}
+
+althegegfx = {
+	skin_tone = 1
+}

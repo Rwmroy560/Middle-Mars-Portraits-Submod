@@ -1,0 +1,499 @@
+mixed_race_group = {
+	graphical_culture = westerngfx # buildings, portraits, units
+	
+	altered_celestian = {
+		graphical_culture = altcelestiangfx # buildings, portraits
+		
+		
+		color = { 0.16 0.16 0.16 }
+
+		used_for_random = no
+		
+		male_names = {
+			Ji Yu Deyi Wuji Xuanling Ruhui Jing Yanbo Shilian Shiji Xingcheng Zhining Suiliang Rengui Zhide Liangsi Daijia Chengsi Changliang Qinwang Jishan Xiujing Yuanzhong Chengqi Shi Ziyi Maozhen Wei Gongren Shidao Wenben Zhou Jifu Shi Dunli Yifu Zhenglun Jingzong Xiangdao Dunxin Liben Chujun Jingxuan Yuanchao Zhiwen Yan Weidao Judao Wenwei Zhaode Sansi Renjie Qiao Zaisi Xuanwei Shuji Anshi Chuke Zhizhong Shaojing Sili Chong Shuo Jiazhen Song Jiuling Linfu Guozhong Yuan Fuguo Huaiguang Sheng Jian Hong Minzhong Zhaodu Wenjing Kang Shuda Yuanji Gui Zheng Wenjie Yuan Maojiang Yushi Dexuan Luo Wenguan Chujun Jingxian Dezhen Siqian Xuantong Guangfu Youning Wuzi Qinke Tong Shou Hui Yanfan Huai Juyuan Chuna Zhizhong Rizhi Youqiu Huaizhen Xi Zhigu Huaishen Qianyao Guangting Yaoqin Xianke Shizhi Xilie Jiansu Jinqin Jin Sui Duo Mei Congdang Yanruo Yin Yan Zhou Junji Yaxiang Chengqing Yi Yanwei Chuyue Hongwu Anqi Renben Heng Yiyan Zhizhou Da'an Daiju Hongmin Weizhi Benli Xiaojie Jiongxiu Dan Jianzhi Huaiyuan Qinming Renyuan Zhigu Xiangxian Na Lin Zhengyi Jingchen Junliang Cha Fangzhi Lübing Youyi Sihui Fuyuan Zhigu Xingben Zhirou Youdao Zhihong Shenji Yuanzong Yuansu Rui Juyuan Yuanfang Shifang Jingquan Yunyuan Yuanheng Fangqing Daoguang Yuanchong Xu Jingze Rong Weiqian Yanzhao Jiafu Yuanhong Xilie Guan Mian Ting Qi Kui Hua Zunqing Zai Hongjian Gun Zhongchen Youfu Lin Yi Bo Congyi Gongfu Yanshang Zao Huang Hun Bi Can Zhi Dan Mai Sun Zongru Yuqing Ying Xunyu Zhiyi Huangshang Yuanheng Di Pan Deyu Jiang Hongjin Guanzhi Fengji Qun Yong Yijian Fu Wenchang Yuanying Sengru Chen Yizhi Chuhou Zongmin Shenxi Guyan Yuanyu Xun Tan Yixing Sifu Shen Rangyi Su Shang Minzhong Yuanshi Guicong Tao Mo Lang Shenyou Zhuan Shenquan Xian Shou Que Shang Zhan Ye Wei Che Gou Changtu Zhaodu Rangneng Yanchang Xisheng Chuan Pu Wo She Riyong Renshi Guangqi Zhirou Yanjing Dewei Shouyi Longji Jie Shouli Yuanzhen Xinfu Yun
+		}
+		female_names = {
+			Anzong Wenshou Aiqin Que Daoan Maoying Qigui Rongji Huinan Yuying Yingwu Xianyuan Lingyuan Wanying Yingmei Zhenfeng Miaodeng Farong Yuzhu Jiangui Fanjing Daozheng Zhirong Huizhao Shuyi Shuyuan Jieyu Ronghua Zhaoyi Lanying Baoming Jingying Shaoming Huiduan Lingqu Yu'er Nizi Jinghui Shunhua Shangrou Hui Lingguang Lingying Lingbing Zhaopei Yao'er Miaorong Shaoji Jingyan Lihua Wuhua Xianji Shouji Zhaorong Ying Xianzi Puxian Lian Mingxiang Yuanhua Tong'e Mingyue Zhaojun "Zu'e" Yuguang Zuqi Zhonghua Yuyi Changyi Huanghua Xiaolian "E'zi" Manyue Yueyi Yueshang Qieluo Lingji Zhou Shuzhen Gui Hui Huitong "Wan'er" Shun Fangmei Zhenyi Caiping Yuhuan Qiniang Qiu Qiuniang Jianrong Chongyan Zhenniang Yuniang Fujin Shiguang "E'huang" "Nüying" Xinyue Hanyue Feishan Shunxuan Taihua Dexiu Jinfeng Chunyan Qiongxian E Taotao Bingyi Yunu Zuimei Chunluo Fengniang Daoqing Zhuozhen Yan Yanyan "Shi'er" "Xian'e" Nanxian Shanxiang Ai Shanli Jinluan "Xi'er" "Zhen'er" Wanyi Mantang Xijie Baozhu Xiuying Zhongyang Ruoxian Ruozhao Ruoxin Ruoxun Ruolun Miaozhen Mao'er Daoyi Niangzi Saihua Guiying Shengqiong Chaochao Fu Zhaoyun Rouniang Rounu Yuniang Biniang Rui Jinhua Guilan Shanwei Suyue Yunxian Nenniang Xiang Zhenli Cuiqiao Zhihui Lingxuan Jicong Shuzhu Yujing Yuanyuan Xiaowan Hengbo Mei Xiangjun Rushi Xianglan Ruying Yuhua Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen "Xiao'e" Xiaoying Xiaoyuan Xiaoji Xiuui "Nüjie" Qingyu Zhichong "Yi'an" Youwu Yupan Jinnu Jinluo Fujin "Hu'er" Jinxian Qiaoyun Sanjin Xiangyun Zhuzhu "Jin'er" Chuanzhu Jinzhu Xiaojin Huimei Miaoyu Quyi Siniang Sanniang "A'wu" Lizhi Jing Shu Lingyue Xianhui Jijiang "Guo'er" Huawan Huazhuang Chang Dehua Panpan Caichun Wenxiu Hong Honghong "A'man" Huimei Shuozhen Youwei Huilan Lize Mingda Sujie Yiyang Hua Yuhuan Shi Diaochan Zheng Liu Kangyi Feiyan Hou Jiangnu Na Shengtong Zhi
+		}
+		
+		dynasty_title_names = no
+		
+		from_dynasty_prefix = ""
+		
+		
+		modifier = default_culture_modifier
+	}
+	altered_daed = {
+		graphical_cultures = { altdaedgfx westerngfx } # units
+		used_for_random = no
+		
+		color = { 0.95 0.6 0 }
+		
+		alternate_start = { 
+			year >= 7600 
+			NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } }
+		}
+		
+		male_names = {
+			Pusippae Monesos Metasos Pherusos Enemos Asareis Ables Naxine 
+			Anemos Pusages Thilinax Pusilio Amax Anios Ilimos Arestes Eremos
+			Nosippae Thosiro Talesipp Zeniusaul
+			Tisthele Arichon Posiasin Haulantho
+			Polleisto Adas Komacho Biadoro Menaxandr
+			Lamusil Etmes Amus Euaenes Kaunesid Menesipp
+			Eulus Hyrcolo Damenes Agocles Istos Cynosil
+			Kerosost Archonos Piasusandr Pusiosen Kyonesius Kannesep
+		}
+		female_names = {
+			Calla Dame Piasia Pina Anas Thyle Aras Rhene Aglaus Damia Dora Eusas Amias Glisia Nimia
+			Anes Cyra Dessa Rhessa Cyllea Enis Aris Nessa Nike Anaes Liphea Klora Thoebe Drisa Tiane
+			Athos xene Glmne Callaia Althaeas Leda Iomen Mara Mene Aecmes Phyla Monia Spera Kata Lissia Aneis
+			Edras Pheana Idos Dena Innas Chera
+		}
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		
+		modifier = default_culture_modifier
+	}
+	
+	altered_elysian = {
+		graphical_cultures = { altelysiangfx } # units
+		used_for_random = no
+		
+		color = { 0.75 0.4 0 }
+		
+		alternate_start = { 
+			year >= 7600 
+			NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } }
+		}
+		
+		male_names = {
+			Acalan Acacitli Acamapichtli Acolmiztli Aculnahuacatl Ahuiliztli Ahuitzotl Atl Axayacatl Cacamatzin Chimalli Chimalpilli Chimalpopoca Cipac Coanacoch Coatl Cozahtli Cuauhtemoc Cuauhtl Cuetlachtli Cuetzpalli Cuixtli Cuitlahuac 
+			Huitzilin Huitzilihuitl Huitzitl Huitztecol Iquehuacatzin Itzcoatl Itzli Itzcuintli Ixtlilxochitl Mahchimaleh Matlal Mazatl Matlalihuitl Matlatzincatzin Maxtla Miztli Moctezuma Moquihuix Necuametl Nezahualcoyotl Nezahualpilli Nochehuatl 
+			Ocuil Olli Opochtli Ozomatli Quauhtli Tapayaxi Tecocoltzin Tecolotl Tetlepanquetzaltzin Tezozomoc Tizoc Tizocic Tlacaelel Tlacaeleltzin Tlalli Tlaloc Tochtli Tototl Tzompantzin Tlilpotonqui Topiltzin Totoquihuaztli 
+			Ueman Yaotl Yayauhqui Yolotli Yolyamanitzin Xicohtencatl Xiuhpilli Xihuitl Xipil Xipilli Xochitl Xochipepe Xochipilli Zipactonal Zolin
+		}
+		female_names = {
+			Achcauhtli Acxocueitl Ahuiliztli Amoxtli Atl Atotoztli Ayauhcihuatl Azcalxochitzin Centehua Cihuaton Chalchiuitl Chicahua Chichimecacihuatzin Chipahua Chicomecoatl Chimalma Citlali Citlalli Citlalmina Coaxoch Coszcatl 
+			Cozamalotl Cuicatl Eleuia Eloxochitl Etalpalli Eztli Huehue-Zaca Itotia Iuitl Ixcatzin Izel Malinalxochitl Manauia Matlalatzin Mecatl Meztli Miahuaxiuitl Miyaoaxochitl Mizquixahual Momoztli Nahuatl Necahual Nelli Ohtli Papa Patli
+			Quiauhxochitl Sacnite Techichpotzin Tezozomoc Tziquetzalpoztectzin Teiuc Teicuih Teyacapan Tepin Tezcatlan Tlacotl Tlahco Tlahcoehua Toltecatl Tonalnan Tlazozomizqui
+			Yoltzin Xilonen Xiloxoch Xiuhtomiyauhtzin Xochitl Xocoh Xocoyotl Yaretzi Zeltzin Zyanya
+		}
+		
+		#from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+	}
+	
+	altered_icarian = {
+		graphical_cultures = { alticariangfx } # units
+		used_for_random = no
+		
+		color = { 0.85 0.5 0 }
+		
+		alternate_start = { 
+			year >= 7600 
+			NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } }
+		}
+		
+		male_names = {
+			Afanasiy_Athanasius Alexandr_Alexander Alexei_Alexis Andrei_Andrew Boris_Boris Briachislav_Bretislaus Daniil_Daniel Davyd_David Demid Dmitriy_Demetrius Dobrynia Fedot_Theodat Feodor_Theodore Gavriil_Gabriel Gleb
+			Grigoriy_Gregory Iakov_Jacob Igor_Ingvar Iliya Ingvar_Ingvar Ivan_John Iziaslav Kirill_Cyril Konstantin_Constantine Koz'ma_Cosmas Lev_Leo Matfei_Matthew Mikhail_Michael Mitrofan Mstislav_Mstislav
+			Nikita Oleg_Helge Pavel_Paul Putiata Radoslav Rodislav Rogvolod Roman_Roman Rostislav Rurik_Rurik Ruslan Simeon_Simon Stanislav_Stanislav Stepan_Stephen Sudislav
+			Svetozar Sviatopolk_Svatopluk Sviatoslav_Sviatoslav Terentiy Trifon Vasiliy_Basil Vasilko Viacheslav_Vaclav Vladimir_Vladimir Vladislav_Vladislav Voislav Volodar Vseslav
+			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav_Jaroslav Yefimiy Yelisey Yemelyan_Emil Yeremey Yevstafiy Yuriy_George
+		}
+		female_names = {
+			Agafya_Agatha Agrafena Alexandra_Alexandra Anastasia_Anastasia Anna_Anna Boleslava Darya Dobrava Dobronega Dobroslava Yefimia_Euphemia Yefrosinia_Euphrosyne Yekaterina_Catherine
+			Yelizaveta_Elizabeth Yevdokia_Eudocia Yevpraxia Feodora_Theodora Feodosia_Theodosia Fevronia Gorislava Gradislava Gremislava Irina_Irene Xenia Liubava
+			Liudmila_Liudmila Malfrida Malusha Maria_Maria Marina_Marine Olena_Helen Olga Pereyaslava Praskovya Praxida Prebrana Predslava Premyslava
+			Pribislava Rogneda Rostislava Sbyslava Sofia_Sophia Sviatoslava Tatyana Ulita Ulyana Varvara Vasilisa Veleslava Verkhoslava
+			Vseslava Viacheslava Yaroslava Zabava Zvenislava
+		}
+		from_dynasty_prefix = "of "
+		
+		male_patronym = "ovich"
+		female_patronym = "ovna"
+		prefix = no
+		
+		modifier = default_culture_modifier
+	}
+
+	altered_alban = {
+		graphical_cultures = { altalbangfx }
+		used_for_random = no
+		
+		color = { 0.95 0.25 0.25 }
+		
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+		
+		male_names = {
+			Arthur_Arthur Alan Albus Ajax Agravain Accolon Angus Attwell Amandil Aulendil Aldarion Anárion Atanamir Ancalimon Alcarin Anducal Adûnakhôr
+			Baldrick Brillig Borogove Bedivere Breunor Brutus Brum Balian Bran Bruin Barnaby_Barnabas Brelan Bartle Belzagar
+			Capald Charles_Charles Colin Carloman Chilperick Constantine Craddock Claudas_Claudius Cedrick Cynan Catigern Ciryatan Calmacil
+			Dorian Darius Douglas Dagobert Dagonet Dinadan
+			Edward_Edward Edmund Errol Ector_Hector Elon Elyan Edern Elros
+			Frederick_Frederick Fry Firmin Fergus Frobisher
+			Gilbert Gilionas Gyre Gordon Guy Gann Gallahad Gryphon Gareth Geraint Griflet Gringolet Gildas Giles Gimilzôr Gimilkhâd
+			Hiram Horatio_Horace Hartnell Harper Hurndall Hector_Hector Hengist Havelock Hallatan
+			Isambard Isilmo Inzilbêth
+			Julian_Julius Joffrey Joseph_Joseph
+			Ludovick Lovarck Lesland Lancelot Lupus Lionel_Lionel Lucan Lucius
+			Manfield Much Meldrick Manxome Malcolm Mercury Maleagant Morgan Marmaduke Meneldur Minastir Míriel
+			Nelson Nennius Neddard Nolondil
+			Oliver Outgrabe Owen Oberon
+			Peter_Peter Percival Pertwee Pepin Phineas Paget Pelleas Pellinore Palantir Pharazôn
+			Ruddigore Richard_Richard Robin Randolph Rubeus Rugbert Rigby Rudyard Rowland_Roland
+			Sullivan Scathelock Sylvester Severus Sagramore Soronto Súrion Sakalthôr
+			Thaddeus Tove Tennant Tulgey Theobald Theophilus Tarrant Tristan Tiberius Teignmouth Telemmaitë
+			Uriens Uther
+			Vincent Vaisey Victor Vardamir
+			Wilbert Winston
+			Yaffle
+			Zimrathôn
+		}
+		female_names = {
+			Antimony Ada Anne_Anna Alice_Alice Angela_Angela Aphrodite Agresizia Abigale Adella Agnes Almyra Almarian Ailinel Almiel Ancalimë
+			Belle Blanche Brangaine Beatrice
+			Caprice Cleonie Caelia Clara Clementina Constance Cordelia Charity Cynthia
+			Dindrane Dorothy Dahlia
+			Edwina Elizabeth_Elizabeth Eleanor_Eleanor Elspeth Elaine Enide Evaine Elvira Esther Eudora Elys Erendis
+			Fay Felyssa Fidelia Frances Frideswide
+			Georgia Geraldine Gwendoline Guinevere Gloriana
+			Hermione Helen_Helen Hester Hannah Hortense Hazel Honoria
+			Isabelle Irma Igraine Iseult Isilmë
+			Joanne_Joan Jane Judith Jessamine Josephine_Josephine Juliet_Julia Johanne_Joan
+			Lucy_Lucy Laudine Lunete Lynette Lyonesse Lenore Lettice Lorraine
+			Marian Mimsy Mary Miranda Morgause Margaret_Margaret Mathilda Mildred Millicent
+			Nimue Nightingale Nymphadora
+			Orgeluse Olive
+			Petra Parcenet Philomena Permelia Phoebe Preshea Phyllis Prudence
+			Ragnell Rhoda Rowena Rufina
+			Sara Samantha Selina Sophronia Sybil Silmariën
+			Theodosia_Theodora Teresa_Theresa Telperiën
+			Victoria_Victoria Venus Vertiline Viviana Vardilmë Vanimeldë
+			Winnifred
+			Zylphia Zona
+		}
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}
+
+	alt_noctian = {
+		graphical_cultures = { altnoctiangfx }
+		used_for_random = no
+		
+		color = { 0.95 0.25 0.25 }
+		
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+		
+		male_names = { 
+			Anthony Allen Akademiks Alan Ace Amir Adanko Abraham Ambrose
+			Biggie Belali Burna Boosie Bryan Brian Benjamin Berg
+			Clarence Cesar Carti Caesar Cain Cleveland Charlamagne Clay
+			Donald Dembo Dred Denmark Durk Dirk
+			Eli Elijah Emory Eulis Eldzier
+			Future Frenchh Gohan 
+			Jasper Jersey
+			Herbert Herbo
+			Jedus Jupiter James Jihad Jamal Jon Julien Joseph
+			Lorenzo Lebron Lee Lenard
+			Kahry Kyrie Kwame Keion
+			Myers Moses Mavado Meek
+			Osman Omar Osiris Orlando
+			Piccolo Philip Purp
+			Quentin Quavo Quran Quando Offset
+			Remus Riley Robert Ross Ron Ronald Rocky
+			Silas Soulja Sam Samuel Snoop Shaq
+			Tony Takeoff Tyler
+			Uzi Ursell Von
+			Wiley Wayne William 
+			Youngboy
+		}
+		female_names = { 
+			Adelaide Australia America Althea Anita Asia
+			Beyonce Blue Bell
+			Cotto China Celina Cornelia Cardi Caroline Crissy Cleopatra
+			Doll Doja Dej 
+			Eden Ethel Europa Eloise Eliza Elizabeth Eula
+			Fatima Francia
+			Glenda Gia Gina
+			Hellen Helena Helen Hailey
+			Inez Agnes Ivory Ivy Inaya
+			Jean Joana Julia Jayda
+			Katie Catherine Kansas Kylie
+			Leola Lucy Lennis Lana London
+			Margaret Miami Medina Martha Megan Mae May Marquetta Michelle Mary Mable
+			Natasha Nancy Nicki 
+			Ophelia Onika
+			Peggy Phoebe Paris Pearlie Pearl
+			Queen Quiana
+			Ramona Rosa Rose Ruby Ronnie Rihanna
+			Sabra Sula Sue Susan Summer Saweetie
+			Tamie Tammy Tina Trina
+			Vertamae Veronica Viola
+			Yaya
+			Wanda
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		
+		modifier = default_culture_modifier
+	}
+
+	alt_titan = { 
+		graphical_cultures = { alttitangfx } # portraits
+		used_for_random = no
+		
+		color = { 0.72 0.8 0.2 }
+		
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+		
+		male_names = {
+			Adrianos_Adrian Akakios_Acacius Alexandros_Alexander Alexios_Alexis Anastasios_Anastasius Anatolios Andreas_Andrew Andronikos_Andronicus Anthemios Anthimos Antiochos Antonios_Antonius Apollonios Arsenios Artemios Athanasios_Athanasius Bardas
+			Bartholomaios_Bartolomeus Basileios_Basil Belisarios_Belisarius Boethios Bosporios Christophoros_Christopher Chrysanthos Chrysogonos Damianos_Damian Daniel_Daniel David_David Demetrios_Demetrius Diogenes Dionysios_Dionysus Dorotheos Eirenaios Eudoxios Eustratios
+			Eugenios_Eugene Euphemios Eusebios_Eusebius Eustathios_Eustace Evangelos Gabriel_Gabriel Gennadios_Gennadius Georgios_George Gerasimos Germanos_Germanus Gregoras_Gregory Gregorios_Gregory Hektorios_Hector Helias_Elijah Herakleios_Heracles Hierotheos Himerios
+			Hippolytos_Hippolytus Hypatios Iakobos_Jacob Ignatios_Ignatius Innokentios_Innocent Ioannes_John Ioannikios Iordanes_Jordan Ioseph_Joseph Isaakios_Isaac Isaias_Isaiah Isidoros_Isidoros Ioulianos_Julian Ioustinianos_Justinian Ioustinos_Justin Kaisarios_Caesar
+			Kallinikos Kallistos_Callistus Komitas Konstantinos_Constantine Konstantios_Constantius Konstas_Constans Kosmas_Cosmas Kyriakos_Cyriacus Kyrillos_Cyril Kyros Laurentios_Laurence Lazaros_Lazarus Leon_Leo Leontios_Leontius Loukas_Luke Makarios Manuel Markos_Marcus
+			Matthaios_Matthew Maurikios_Maurice Maximos_Maximus Megistos_Magnus Meletios Methodios Michael_Michael Narses Neophytos Nikephoros_Nikephoros Niketas Nikodemos Nikolaos_Nicholas Niphon Orestes Pamphilios Pankratios_Pancras Pantoleon Paschalis_Pascal
+			Pavlos_Paul Pelagios_Pelagius Petros_Peter Philaretos Philippos_Philip Philotheos Phokas Photios Polykarpos Porphyrios Prokopios_Procopius Pyrros Raphail_Raphael Romanos_Roman Sabas Samuel_Samuel Serapion_Seraphin Sebastianos_Sebastian Sergios_Sergius Stephanos_Stephen
+			Staurakios Symeon_Simon Symmachos_Symmachus Theocharistos Theodoros_Theodore Theodosios_Theodosios Theodotos_Theodat Theodoulos Theoktistos Theophanes Theophilos Theophylaktos Thomas_Thomas Tiberios_Tiberius Traianos_Trajan
+			Timotheos_Timothy Tryphon Valerios_Valerius Zacharias_Zachary Zenobios Zenon
+		}
+		female_names = {
+			Adriane_Adriana Agathe_Agatha Agne_Agnes Aikaterine_Catherine Alexandra_Alexandra Alexeia_Alexia Anastasia_Anastasia Anna_Anna Anthe Anthousa Antipatra Antonia_Antonia Apollonia Athanasia Barbara_Barbara Basillike
+			Chrysogone Damiane Demetra Dionysia Dorothea_Dorothy Aigidia Eirene_Irene Elaiodora Epiphania Eudokia_Eudocia Eudoxia_Eudocia Eugenia_Eugenia Eulalia Eunike Euphemia_Euphemia Euphrasia Euphrosyne_Euphrosyne
+			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia_Georgia Gregoria Helene_Helen Hypatia Ioanna_Joan Ioulia_Julia Iouliana_Juliana Ioustina_Justina Kale Konstantia_Constantia Konstantine_Constantina Kyra Kyriake_Kyriake
+			Leontia Margarita_Margaret Maria_Maria Markia_Marcia Martha_Martha Melissa_Melisende Nikarete Nikoletta Nonna Parthena Pavlina_Paulina Pelagia Petronia_Petronia Philippa_Philippa Phyllis Pulcheria_Pulcheria Rhodanthe Romane Romylia Sergia_Sergia Sibylla_Sibylla
+			Simonis Sophia_Sophia Stephania_Stephania Thekla Theochariste Theodora_Theodora Theodosia_Theodosia Theognosia Theoktiste Theophano Thomais Valeria_Valeria Viviana_Viviana Xene Zenobia Zoe
+		}
+
+		from_dynasty_prefix = "of "
+		
+		modifier = default_culture_modifier
+	}
+
+	alt_versian = {
+		graphical_cultures = { altversiangfx } # portraits
+		used_for_random = no
+		
+		color = { 0.5 0.8 0.05 }
+		
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+		
+		male_names = {
+			Oppius Siusentia Cusiuso
+			Numus Mummila Vegallo
+			Gaiuso Sosidia Friusona
+			Liuso Niuseiusius Orilis
+			Gniuso Suliusert Meliuso
+			Oppius Viusenius Quintuso
+			Spublus Miusonus Paetiusa
+			Maneo Cundiusalv Marsuso
+			Doman Miusornius Cusurio
+			Aulius Ciusaeiusid Runterio
+			Mitus Venicil Villicia
+			Gaiuso Ceiusanius Minusea
+			Gnaeuso Mariusilv Piloria
+			Domerc Victriusenn Hilito
+			Gnumus Cianiusian Siususea
+			Decim Batiusalv Comalcha
+			Galius Viuseptia Paetiuso
+			Vuso Pellatia Pello
+			Viber Siusestia Vinuso
+			Tiuso Perpapun Sinuso
+		}
+		female_names = {
+			Sapia Omptillius
+			Vienea Miniusil
+			Alian Saniusall
+			Afroti Giususenn
+			Peria Fadiusal
+			Silva Muciusoc
+			Centia Ontiscius
+			Vita Miniusert
+			Rentia Alvittius
+			Malthea Cliusinius
+			Meta Niusepian
+			Gena Cumacruf
+			Macra Niusila
+			Vivia Viusinius
+			Anan Viusenius
+			Prescia Lusiusep
+			Justa Siusenius
+			Malthia Pelliusil
+			Plaria Purcalver
+			Censia Vediusylv
+		}
+		
+		from_dynasty_prefix = "ve "
+		
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		allow_looting = yes
+		
+		modifier = default_culture_modifier
+		
+		disinherit_from_blinding = yes
+	}
+			
+	alt_western = {
+		graphical_culture = altwesterngfx # portraits
+		used_for_random = no
+		
+		color = { 0.21 0.21 0.21 }
+		
+		used_for_random = no
+		
+		male_names = {
+			Ario Almando Alio Alto Balis Blain Bali Brendin Boris Celio Cecil Clement Clemenzio Cerio Celimar Doran Dormund Derio Denis Danton Derrimon Dalton Evio Eimar Elmo
+			Elton Elio Emerio Ello Emir Eddio Erio Giovan Garee Gramon Green Gerio Gerol Germando Horacio Horio Halmon Halimon Hastelio Issar Ismar Illyo Jerico Jerio Jermon Jeri
+			Kelmon Kert Lanse Lari Laro Lario Larimon Larz Lester Malvesto Maven Morton Morio Mortio Monald Milo Nicki Nicmond Nickifer Nino Nilo Orio Oman Olvion Petor Prenio Perrio Perri 
+			Pastor Rodio Rojo Rali Rori Ross Rosmon Solmon Solio Silvio Salvio Servon Sevemon Terio Teri Terri Tarri Tario Talmio Talio Unvar Vario Valys Venio Vahar Vellys
+			Valio Valion Vallo Varion Walio Wallo Walman
+		}
+		female_names = {
+			Aria Arena Ariana Artaria Alisa Amiana Brigia Briana Bina Brinia Britannia Celia Cecilia Clemenza Cayla Cesaria Claira Ciara Carria Carmia Carma Delia Delaria Daijah Daisia
+			Daicy Dalia Daria Dina Denira Denisha Eria Enbia Enby Elisia Emania Emani Elima Ella Fantasia Gloria Gloriana Galia Genia Islara Isara Jania Janaria Jalia Jaliah Jenia Jenna Jinjer
+			Keria Korra Kerra Kiara Kaira Kira Kara Lana Lanette Lorelei Lanavia Lanaria Mayva Maria Marrah Melaria Mayra Melia Menia Meliara Mariana Manaria Oquasia Palia Prima Primrose
+			Penneli Penalia Pela Pelia Ranira Raina Tanaria Tia Trishia Tamia Tantalia Talia Uvia
+		}
+		from_dynasty_prefix = ""
+		
+		male_patronym = "son of "
+		female_patronym = "daughter of "
+		prefix = yes
+
+		modifier = default_culture_modifier
+	}
+	
+	alt_amethian = {
+		graphical_culture = altamenthgfx # portraits, units
+		second_graphical_culture = muslimgfx # buildings, portraits, units
+		
+		color = { 0.3 0.8 0.18 } #Green
+
+		
+		male_names = {
+			Amarapuyankan_Amarabhujanga Aparâcita_Aparajita Aparâcitavarman_Aparajitavarman Appûtaiyân Arikêcari_Arikesari Ariñcaya_Arinjaya Arulmolitêvar 
+			Arulmolivarman Atirâcêntira_Athirajendra Atitta_Aditya Avaniyâlappirantâr Avraaham_Abraham Brahmamârâyar Cadayan Cankili Cataiyavarman_Sadayavarman Catturukâlamakalâtittan Cayantavarman_Jayantavarman
+			Celiyancentan Cekarâcacêkaran_Segarajasekaran Cevakattevan Ceyavîra Chaacko_Jacob Chaandy_Alexander Cimmavisnu_Simhavishnu Cinkapâku_Singhabahu Civakkoluntân Cuntara_Sundara Câramutaiyân Câttanân 
+			Cîvallapa_Seervallabha Cîvallapan_Seervallabhan Daniyel_Daniel Eappen_Stephen Eccavarâkan Eisow_Jesus Impânâyarpattan Irattapadikonda Irâcacimman_Rajasingan Irâcakecaripanmar Irâcarâca_Rajaraja 
+			Irâcâcekara_Rajasekhara Irâcâtirâca_Rajadhiraja Irâcâtirâcatevar Irâcâtitta_Rajaditya Irâcêntira_Rajendra Ittac_Isaac Iyob_Job Kadarangkonda Kanakacûriya Kantarâtitta_Gandarditya 
+			Karaikkiyemarrayilaiyân Karunandadakkan Karunandan Katunkon Kilân Kirâmarâcapattan Kontân Kossy_Joshua Kotukulapattan Kulacêkara_Kulasekhara Kulacêkaran_Kulasekharan 
+			Kulôttunka_Kulothunga Kunapûsana Kunavîra Kurian_Cyrus Kutameratiruvatikal Kôpperuñcimman_Kopperunchinga Lukose_Luke Makêntiravarman_Mahendravarman Manappâkkîlan 
+			Manavâlapperumâl Munnûrruvappattan Mâmpâkkamutaiyân Mânaticcuran Mârapanmar Mâravarman_Maravarman Mârkantaiyan Markose_Marcus Mâtevapattan Mâtevipattan Nantivarman_Nandivarman 
+			Naracimmavarman_Narasimhavarman Nirupatunkavarman_Nirupatonkavarman Niyâyaparipâlapattan Nârpattennâyirapattan Nâtittañcâttan Pantâram_Pandaram 
+			Parakesaripanmar Paramêsvaravarman_Parameswaravarman Paranirupacinkam_Paranirupasingham Pararâcacêkaran_Pararajasekharan Parâkkirama_Parakrama 
+			Parânkucan_Parankusan Parântaka_Parantaka Pathrose_Peter Pañcavan Paulose_Paul Periyapillai Perumâl Peruñcintevar Piramârâyan Piyliypaos_Philip Puvirâca_Puviraja Pâkkilân Pâlarâvâyan Ranatitta_Ranaditya 
+			Ranatîran_Ranadhiran Ravivarman Samuel_Samuel Tantivarman_Dantivarman Tennavan Thoma_Thomas Tiruccirrampalapattan Tirunattapperumâl Tirupuvanavîratevar Tripuvanacakkaravattikal 
+			Uravâkkinân Utaiya_Udaya Uttama Varakunan_Varagunan Varakunavarman_Varagunavarman Varôtaya Varughese_George Vellantânkinân Vicayâlaya_Vijayalaya Vicayâraka_Vijayaraga 
+			Vicayâtitta_Vijayaditya Vikkirama Vikramâtittâ_Vikramaditya Viranârâyanapattan Virâcakecaripanmar Vîracêkara_Virasekhara Vîrakêcari_Virakhesari 
+			Vîrarâcêntira_Virarajendra Vîrôtaya_Virodaya Yohannaan_John Yosef_Joseph Zacharria_Zachary Âccinataratippan Ânûrrenmanpiccan Âyirattalipattan
+		}
+		female_names = {
+			Aaleyaamma_Elizabeth Accamma_Rebecca Accattêvi Annamma_Anna Aiyyârratikal Akkâranankayâr Amittiravalli Ammaiyâlvi Ammakkanâr Ammankâtêvi_Ammangadevi Ankâti Aramutaiyâl 
+			Aricukâti Ariyapillai Ariñcikai Ariñcikaipirâtti Ariñcikaippirâttiyâr Arulmolinankaiyâr Aruvanki Atavallâl Atittapatâriyâr Atittapitâri 
+			Atittapitâriyâr Atticapitâriyâr Avutaiyâlccâni Cankâni Cantirâdêvi Cenkulam Ceyyacôlam Ceyyavâymani Civatêvi Civallapatevi 
+			Corappaiyâr Câmuntappai Cêramankai Côlamâtêvi Eccumantai Eluvanai Eluvattûr Etuttapâtam Irâcinkam Irâcâticci Irâcacuntari 
+			Kalacci Kalicci Kanavati Kannapparaciyâr Kantiyûr Kariyamâtêvi Karumânikkam Kaucalaiyâr Kavatiyakkan Kañciakkan Kutitânkinâl 
+			Kuñcaramalli Kuñciramalli Kâmuttiri Kâraikkâl Kôkilânadigal Kôlâliyâr Kômalavalli Kôyinâccipitâriyâr Kûrrantêvi Kûttâtunâcci 
+			Mahâdeviyâr Malaiyamân Malapâti Maraikkâtu Mañcavi Mânikkam Mariamma Mâtêvatikal Mâtêvatikalâr Nakarattâl Naltêviyâr Namaiyâr Nankaiyâr Nantirinankai 
+			Netuntukkai Nilammai Nimmatikal Nâcci Nâcciyâlvi Nârani Nârâyani Nâñcûri Nîlakanti Nîliyâr Olimatiyâr Orriâlvi Pavitram Pennaraciyâr 
+			Peranankai Periyanâcci Perrappai Pillayâlvi Piramaccâni Piratamâtevi Pirriccâni Pollâtapillai Pommavâyi Ponnampalattatikalâr Punniyavâtti Pûvânti
+			Raahelamma_Rachel Râcatêviyâr Râcakêcari Sâmavâyi Saramma_Sarah Sosamma_Susan Taturântakiyâr Tavañceytâl Tayânitiyâr Thresiamma_Teresa Tirumûlattânam Tiruvaranki Tiruvennâval Tiruvânaikkâvi 
+			Tiruvênkatam Tunaiyiruntâlcâni Tânatonkiyâr Têcappukal Têmpâvai Têvânrâl Tûnkânai Umaiyâlvâr Utaiyaval Utaiyañceytâl Vaccavaiyâr 
+			Varakuni Vatavâyil Venankai Vennâval Vicciyakkan Viccâtiri Vikkiramâtitti Viraiyâccilai Vitari Vânavanmâtêvi
+		}
+		dynasty_title_names = yes
+	
+		modifier = default_culture_modifier
+	}
+	
+	alt_hege = {
+		graphical_cultures = { althegegfx } # portraits
+		used_for_random = no
+		
+		color = { 0.95 0.95 0.95 }
+		
+		alternate_start = {
+			year >= 7100 
+			NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } }
+		}
+		
+		male_names = {
+			Abagha Achigh Aguchu Ajai Ajinai Akhutai Alagh Alchi Alchidai Altan Ambaghai Arkhai Arasen Babur Badai Bagaridai Bala Barghujin Bartan Batu Bedugun Begter Belgutei
+			Belgunutei Bilge Berke Bodonchar Bogen Bogorchu Bolkhadar Borjigidai Boroghul Bughu Bugidai Bugunutei Bujeg Bukha Bulughan Buri Burkhan Burundai Chagatai Chaghagan Chanai Chigu
+			Chidukhul Chilagun Chiledu Chormakhan Chulgetei Dagun Daritai Dayir Dodai Duua Eljigedei Ghazan Ghunan Guchu Gughlug Guyug Harghasun Horkhudagh Hulegu Husun Inalchi Inancha Iturgen 
+			Jajiradai Jamugha Jebe Jochi Jurchedei Khabichi Khachi Khachigun Khadagh Khagatai Khaidu Khal Khorchi Khorilartai Khubilai Khudu Khutula Khuyildar Kogsegu Kokochu Megetu Megujin
+			Menggei Mongke Morokha Munglig Nakhu Narin Nayaga Nogai Odchigin Ogodei Okhotur Oljaitu Oronartai Shiraghul Shirgugetu Subetei Suyiketu Taghai Tamachi Targhutai Temuge Temujin Temur_Timur
+			Todogen Toghoril Toghtoga Tokhtamis Tolui Torolchi Tumen Uighurtai Ukhuna Usun Yedi Yegu Yeke Yesugei Yesunge Yokhunan Kadan Godan
+		}
+		female_names = {
+			Al-Alta Alan Altani Borte Botokhui Bulughan Chabi Chagur Chakha Checheyigen Chotan Doregene Doquz Ebegei Gurbesu Hogelun Holuikhan Ibakha Khadagan Khogaghchin Khojin Khorijin Khugurchin Khulan Khutulun Mandukhai Mongoljin Nomolun Oghul Orbei Sokhatai Sorkhaghatani Tekine Temulun Töregene Yesugun Yesui Hoelun
+		}
+		
+		from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+	}
+
+	alt_mariner = {
+		graphical_cultures = { altmarinergfx } # buildings
+
+		
+		color = { 0.9 0.4 0.3 } #cream
+
+		used_for_random = no
+		
+		male_names = {
+			Aaron Alton Artaro Alucion Asher Andor Barry Borion Blarion Benton Billion Blain Blue Bugsy Byron Brock Bruno Barrold Charon Crasher
+			Cyrus Cylmon Desmond Darkrai Darion Drake Dread Damion Dreward Dannon Danley Danion Dudley Ethan Eusine Edmar Eddy Falkner
+			Flint Furio Frank Gent Garion Gramion Grammy Graham Giovanni Hunter Harris Harion Halion Jordan Johnaris Juno Jermaine Jesse 
+			Junio Jerman Julio Jharios Klarion Kenley Kurtis Koga Klaus Kenroy Kenton Lance Looker Larion Larys Lucimar Lucas Lucian Lucion Lucifer 
+			Marley Marlon Morty Marion Mario Montey Oreo Orban Pryce Percy Perry Peter Quavious Quenton Quarion Quavo
+			Pryce Perrywinkle Red Riley Roark Rawly Rider Ritchie Samworth Silvester Silver Steven Stone Tony Trion Talman Terry Usher Volkner Vincent
+			Vandal Vansire Victarion Vince Wilmar Wilton Wendel Welven 
+			 
+			Zapdos Entei Gary Brock
+		}
+		female_names = {
+			Abigail Artaria Alisa Bebe Blue Binny Beauty Brandy Blossom Blaire Candice Candy Cake Caitlin
+			Camilla Cheryl Clair Clairo Cynthia Cindy Casca Daisy Dawn Daphney Erika Eila Eimar Elisma Elivia
+			Elia Fantina Fantasia Faire Fiona Fable Fairy Gardenia Grace Gina Haera Isamar Isla Iberia Immi
+			Issa Janine Janae Jahnaria Jayda Jasmine Jasmina Jordana Jupiter Jewel Karen Kiara Keira Kelsey Kween 
+			Kimaria Kayla Lyra Lucy Leaf Leila Laeria Laribelle Lovely Mars Mira Maylene Misty Missy Marybeth
+			Mayflower Marissa May Naera Natalie Natasha Nina Nancy Nindy Nadine Natira Natura Nalena Neryl Nelida
+			Pamela Pollen Palaria Pinaria Raevona Rania Sparkle Sabrina Saturn Sarah Susei Simone Sariah Salisha
+			Star Trisha Tina Tinkerbell Tiny Trillion Taria Tamera Uriah Ursula Whitney 
+	
+			Oceania Dratini Eevee Misty Dawn Hikari 
+		}
+
+		from_dynasty_prefix = ""
+		
+		male_patronym = "son of "
+		female_patronym = "daughter of "
+		prefix = yes
+
+		modifier = default_culture_modifier
+	}
+}	
