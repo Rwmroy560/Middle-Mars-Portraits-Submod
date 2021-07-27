@@ -204,7 +204,44 @@ character_event = {
 				}				
 			}
 		}
-	
+		###Outer Alban/Altered Hybrid Event
+		IF = {
+			limit = {
+				OR = {
+					AND = {
+						father_even_if_dead = { 				
+							###Altered Father
+							graphical_culture  = noachisgfx
+						}	
+						mother_even_if_dead = { 
+						###Alban Mother
+						graphical_culture = outeralbangfx
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Altered Mother
+							graphical_culture  = noachisgfx
+						}
+						father_even_if_dead = { 	
+							###Alban Father
+							graphical_culture = outeralbangfx
+						}
+					}
+				}
+			}
+			random_list = {
+				70 = {
+					set_graphical_culture = altered_alban
+				}
+				15 = {
+					set_graphical_culture = old_frankish
+				}
+				15 = {
+					set_graphical_culture = bedouin_arabic
+				}				
+			}
+		}	
 		###Noctian/Altered Hybrid Event
 		IF = {
 			limit = {
@@ -468,6 +505,47 @@ character_event = {
 				}
 				20 = {
 					set_graphical_culture = mongol
+				}
+				5 = {
+					set_graphical_culture = zhangzhung
+				}				
+			}
+		}
+		###Tharsian/Altered Hybrid Event
+		IF = {
+			limit = {
+				OR = {
+					AND = {
+						father_even_if_dead = { 				
+							###Altered Father
+							graphical_culture  = noachisgfx
+						}	
+						mother_even_if_dead = { 
+							###Tharsian Mother
+							graphical_culture  = skykidsgfx
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Altered Mother
+							graphical_culture  = noachisgfx
+						}
+						father_even_if_dead = { 	
+							###Tharsian Father
+							graphical_culture  = skykidsgfx
+						}
+					}
+				}
+			}
+			random_list = {
+				50 = {
+					set_graphical_culture = alt_versian
+				}
+				25 = {
+					set_graphical_culture = bedouin_arabic
+				}
+				20 = {
+					set_graphical_culture = cuman
 				}
 				5 = {
 					set_graphical_culture = zhangzhung
