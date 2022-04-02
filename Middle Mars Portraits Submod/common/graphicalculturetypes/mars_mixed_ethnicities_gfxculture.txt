@@ -4,6 +4,9 @@
 # Mixed Culture Groups
 
 #Mixed Group
+solentiangfx = {
+	skin_tone = 2
+}
 altcelestiangfx = {
 	skin_tone = 1
 }

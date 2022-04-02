@@ -1450,7 +1450,7 @@ iranian = { #Daedalian
 		female_names = {
 			Calla Dame Piasia Pina Anas Thyle Aras Rhene Aglaus Damia Dora Eusas Amias Glisia Nimia
 			Anes Cyra Dessa Rhessa Cyllea Enis Aris Nessa Nike Anaes Liphea Klora Thoebe Drisa Tiane
-			Athos xene Glmne Callaia Althaeas Leda Iomen Mara Mene Aecmes Phyla Monia Spera Kata Lissia Aneis
+			Athos Xene Glmne Callaia Althaeas Leda Iomen Mara Mene Aecmes Phyla Monia Spera Kata Lissia Aneis
 			Edras Pheana Idos Dena Innas Chera
 		}
 		
@@ -1478,7 +1478,7 @@ iranian = { #Daedalian
 		female_names = {
 			Calla Dame Piasia Pina Anas Thyle Aras Rhene Aglaus Damia Dora Eusas Amias Glisia Nimia
 			Anes Cyra Dessa Rhessa Cyllea Enis Aris Nessa Nike Anaes Liphea Klora Thoebe Drisa Tiane
-			Athos xene Glmne Callaia Althaeas Leda Iomen Mara Mene Aecmes Phyla Monia Spera Kata Lissia Aneis
+			Athos Xene Glmne Callaia Althaeas Leda Iomen Mara Mene Aecmes Phyla Monia Spera Kata Lissia Aneis
 			Edras Pheana Idos Dena Innas Chera
 		}
 		
@@ -1611,7 +1611,7 @@ east_african = { #Noctis Marineris
 		female_names = { 
 			Adelaide Australia America Althea Anita Asia
 			Beyonce Blue Bell
-			Cotto China Celina Cornelia Cardi Caroline Crissy Cleopatra
+			China Celina Cornelia Cardi Caroline Crissy Cleopatra
 			Doll Doja Dej 
 			Eden Ethel Europa Eloise Eliza Elizabeth Eula
 			Fatima Francia
@@ -1677,7 +1677,63 @@ central_african = { #Solian
 		female_names = { 
 			Adelaide Australia America Althea Anita Asia
 			Beyonce Blue 
-			Cotto China Celina Cornelia Cardi Caroline Crissy Cleopatra
+			Chelsea China Celina Cornelia Cardi Caroline Crissy Cleopatra
+			Doll Doja Dej 
+			Eden Ethel Europa Eloise Eliza Elizabeth Eula
+			Fatima Francia
+			Glenda Gia Gina
+			Hellen Helena Helen Hailey
+			Inez Agnes Ivory Ivy Inaya
+			Jean Joana Julia
+			Katie Catherine Kansas Kylie
+			Leola Lucy Lennis Lana London
+			Margaret Miami Medina Martha Megan Mae May Marquetta Michelle Mary Mable
+			Natasha Nancy Nicki 
+			Ophelia Onika
+			Peggy Phoebe Paris Pearlie Pearl
+			Queen Quiana
+			Ramona Rosa Rose Ruby Ronnie Rihanna
+			Sabra Sula Sue Susan Summer Saweetie
+			Tamie Tammy Tina Trina
+			Vertamae Veronica Viola
+			Yaya
+			Wanda
+		}
+	}
+	zaghawa = { #Neo-Solian
+		graphical_cultures = { westafricangfx chinesegfx }
+		secondary_event_pictures = bedouin_arabic
+		used_for_random = no
+		
+		color = { 0.9 0.35 0.85 }
+		
+		male_names = { 
+			Anthony Allen Akademiks Alan Ace Amir Adanko Abraham Ambrose
+			Biggie Belali Burna Boosie Bryan Brian Benjamin Berg
+			Clarence Cesar Carti Caesar Cain Cleveland Charlamagne Clay
+			Donald Dembo Dred Denmark Durk Dirk
+			Eli Elijah Emory Eulis Eldzier
+			Future Frenchh Gohan 
+			Jasper Jersey
+			Herbert Herbo
+			Jedus Jupiter James Jihad Jamal Jon Julien Joseph
+			Lorenzo Lebron Lee Lenard
+			Kahry Kyrie Kwame Keion
+			Myers Moses Mavado Meek
+			Osman Omar Osiris Orlando
+			Piccolo Philip Purp
+			Quentin Quavo Quran Quando Offset
+			Remus Riley Robert Ross Ron Ronald Rocky
+			Silas Soulja Sam Samuel Snoop Shaq
+			Tony Takeoff Tyler
+			Uzi Ursell Von
+			Wiley Wayne William 
+			Youngboy
+		}
+		female_names = { 
+			Adelaide Australia America Althea Anita Asia
+			Beyonce Blue 
+			Chelsea China Celina Cornelia Cardi Caroline Crissy Cleopatra
 			Doll Doja Dej 
 			Eden Ethel Europa Eloise Eliza Elizabeth Eula
 			Fatima Francia
@@ -1717,20 +1773,21 @@ mesoamerican = { #Elysian
 		used_for_random = no
 		
 		male_names = {
-			Acalan Acacitli Acamapichtli Acolmiztli Aculnahuacatl Ahuiliztli Ahuitzotl Atl Axayacatl Cacamatzin Chimalli Chimalpilli Chimalpopoca Cipac Coanacoch Coatl Cozahtli Cuauhtemoc Cuauhtl Cuetlachtli Cuetzpalli Cuixtli Cuitlahuac 
-			Huitzilin Huitzilihuitl Huitzitl Huitztecol Iquehuacatzin Itzcoatl Itzli Itzcuintli Ixtlilxochitl Mahchimaleh Matlal Mazatl Matlalihuitl Matlatzincatzin Maxtla Miztli Moctezuma Moquihuix Necuametl Nezahualcoyotl Nezahualpilli Nochehuatl 
-			Ocuil Olli Opochtli Ozomatli Quauhtli Tapayaxi Tecocoltzin Tecolotl Tetlepanquetzaltzin Tezozomoc Tizoc Tizocic Tlacaelel Tlacaeleltzin Tlalli Tlaloc Tochtli Tototl Tzompantzin Tlilpotonqui Topiltzin Totoquihuaztli 
-			Ueman Yaotl Yayauhqui Yolotli Yolyamanitzin Xicohtencatl Xiuhpilli Xihuitl Xipil Xipilli Xochitl Xochipepe Xochipilli Zipactonal Zolin
+			"Day Star" "Night Star" "Noon Star" "Red Rider" "Blue Reader" "Big Boar" "Lazy Sun" "Red Tree" "Short Stick" "Lucky Falcon" "Loud Boy" "Red Belly" "Black Thunder" "Roaring Flame" "Bright Sword" "Red Axe" "Blue Blade"
+			"Lucky Shield" "Winter Soldier" "Summer Soldier" "Summer Tongue" "Iron Belly" "Big Flame" "Green Hand" "Crowned Stag" "Soldier Boots" "Red Protector" "White Lightning" "White Flame" "Big Mouth" "Sharp Ears" "Heavenstar"
+			"Tall Talker" "Long Walker" "Green Courage" "Two Heads" "Summer Night" "Red Warrior" "Blue Warrior" "Black Warrior" "White Warrior" "Green Warrior" "Gold Warrior" "Violet Warrior" "Rose Killer" "Water Rider" "Sun Star"
+			"Faithful Shield" "Walking Piper" "Winter Song" "Summer Song" "Black Star" "Blind Fury" "Moon Boy" Tiger Boar "Liger Zero" Cheetah Puma Jaguar "Sly Fox" "Sky Lord" "Eagle Wing" "Bear Foot" "Cougar Paw" "Tiger Tail" Sunset
+			"Blue Bard" "Dragon Rider" "Gryphon Rider" "Night Ranger"
 		}
 		female_names = {
-			Achcauhtli Acxocueitl Ahuiliztli Amoxtli Atl Atotoztli Ayauhcihuatl Azcalxochitzin Centehua Cihuaton Chalchiuitl Chicahua Chichimecacihuatzin Chipahua Chicomecoatl Chimalma Citlali Citlalli Citlalmina Coaxoch Coszcatl 
-			Cozamalotl Cuicatl Eleuia Eloxochitl Etalpalli Eztli Huehue-Zaca Itotia Iuitl Ixcatzin Izel Malinalxochitl Manauia Matlalatzin Mecatl Meztli Miahuaxiuitl Miyaoaxochitl Mizquixahual Momoztli Nahuatl Necahual Nelli Ohtli Papa Patli
-			Quiauhxochitl Sacnite Techichpotzin Tezozomoc Tziquetzalpoztectzin Teiuc Teicuih Teyacapan Tepin Tezcatlan Tlacotl Tlahco Tlahcoehua Toltecatl Tonalnan Tlazozomizqui
-			Yoltzin Xilonen Xiloxoch Xiuhtomiyauhtzin Xochitl Xocoh Xocoyotl Yaretzi Zeltzin Zyanya
+			"Red Maiden" "White Maiden" "Blue Maiden" "White Willow" "Starfire" "Heaven's Song" "Winter Song" "Summer Song" "Beautiful Fire" "Pretty Soul" "Crystal Gem" "Ruby Rose" "Silent Night" "Rose Petal" "Light Bringer"
+			"Shining Diamond" "Long Hair" "Short Hair" "Sweet Bird" "Summer Walker" "Tall Mayflower" "Sweet Lady" Serenity Peace Joy Happiness "Wide Smile" "Sugar Spice" "Pretty Face" Wonder "Lovely Sound" "Lonely Storm" "Moon Girl"
+			Kitten "Big Cat" Winter "White Lily" "Robin Wing" "Sooth Sayer" "Soft Singer" Sunshine Lioness Love "Wind Goddess" "Wild Hare" Bunny Pearl "Little Foot" "Little Bell" "Holy Spear" "Silent Night" Storm "Good Day" Flower
+			"Lucky Snake" Spirit "Lucky Star" "Blue Ocean" "Light Carrier" 
 		}
 		
 		#from_dynasty_prefix = "of "
-		founder_named_dynasties = yes
+		founder_named_dynasties = no
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50

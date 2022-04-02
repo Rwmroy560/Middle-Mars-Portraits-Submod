@@ -255,6 +255,68 @@ mixed_race_group = {
 		
 		modifier = default_culture_modifier
 	}
+	solentian = {
+		graphical_cultures = { solentiangfx }
+		used_for_random = no
+		
+		color = { 0.95 0.25 0.25 }
+		
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+		
+		male_names = { 
+			Anthony Allen Akademiks Alan Ace Amir Adanko Abraham Ambrose
+			Biggie Belali Burna Boosie Bryan Brian Benjamin Berg
+			Clarence Cesar Carti Caesar Cain Cleveland Charlamagne Clay
+			Donald Dembo Dred Denmark Durk Dirk
+			Eli Elijah Emory Eulis Eldzier
+			Future Frenchh Gohan 
+			Jasper Jersey
+			Herbert Herbo
+			Jedus Jupiter James Jihad Jamal Jon Julien Joseph
+			Lorenzo Lebron Lee Lenard
+			Kahry Kyrie Kwame Keion
+			Myers Moses Mavado Meek
+			Osman Omar Osiris Orlando
+			Piccolo Philip Purp
+			Quentin Quavo Quran Quando Offset
+			Remus Riley Robert Ross Ron Ronald Rocky
+			Silas Soulja Sam Samuel Snoop Shaq
+			Tony Takeoff Tyler
+			Uzi Ursell Von
+			Wiley Wayne William 
+			Youngboy
+		}
+		female_names = { 
+			Adelaide Australia America Althea Anita Asia
+			Beyonce Blue Bell
+			Cotto China Celina Cornelia Cardi Caroline Crissy Cleopatra
+			Doll Doja Dej 
+			Eden Ethel Europa Eloise Eliza Elizabeth Eula
+			Fatima Francia
+			Glenda Gia Gina
+			Hellen Helena Helen Hailey
+			Inez Agnes Ivory Ivy Inaya
+			Jean Joana Julia Jayda
+			Katie Catherine Kansas Kylie
+			Leola Lucy Lennis Lana London
+			Margaret Miami Medina Martha Megan Mae May Marquetta Michelle Mary Mable
+			Natasha Nancy Nicki 
+			Ophelia Onika
+			Peggy Phoebe Paris Pearlie Pearl
+			Queen Quiana
+			Ramona Rosa Rose Ruby Ronnie Rihanna
+			Sabra Sula Sue Susan Summer Saweetie
+			Tamie Tammy Tina Trina
+			Vertamae Veronica Viola
+			Yaya
+			Wanda
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		
+		modifier = default_culture_modifier
+	}
 
 	alt_titan = { 
 		graphical_cultures = { alttitangfx } # portraits

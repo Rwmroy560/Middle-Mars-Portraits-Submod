@@ -38,17 +38,11 @@ character_event = {
 				}
 			}
 			random_list = {
-				50 = {
+				75 = {
 					set_graphical_culture = altered_celestian
 				}
 				25 = {
 					set_graphical_culture = bedouin_arabic
-				}
-				20 = {
-					set_graphical_culture = tau_cetinese
-				}
-				5 = {
-					set_graphical_culture = zhangzhung
 				}				
 			}
 		}
@@ -269,13 +263,13 @@ character_event = {
 				}
 			}
 			random_list = {
-				70 = {
+				75 = {
 					set_graphical_culture = alt_noctian
 				}
 				15 = {
 					set_graphical_culture = bedouin_arabic
 				}
-				15 = {
+				10 = {
 					set_graphical_culture = ethiopian
 				}				
 			}
@@ -307,13 +301,13 @@ character_event = {
 				}
 			}
 			random_list = {
-				70 = {
+				75 = {
 					set_graphical_culture = alt_noctian
 				}
 				15 = {
 					set_graphical_culture = bedouin_arabic
 				}
-				15 = {
+				10 = {
 					set_graphical_culture = ethiopian
 				}				
 			}
@@ -353,6 +347,76 @@ character_event = {
 				}
 				25 = {
 					set_graphical_culture = greek
+				}				
+			}
+		}
+		###Noctian/Hegemonian Hybrid Event
+		IF = {
+			limit = {
+				OR = {
+					AND = {
+						father_even_if_dead = { 				
+							###Hegemonian Father
+							graphical_culture  = hegemoniangfx
+						}	
+						mother_even_if_dead = { 
+							###Noctian Mother
+							graphical_culture  = noctiangfx
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Hegemonian Mother
+							graphical_culture  = hegemoniangfx
+						}
+						father_even_if_dead = { 	
+							###Noctian Father
+							graphical_culture  = noctiangfx
+						}
+					}
+				}
+			}
+			random_list = {
+				85 = {
+					set_graphical_culture = solentian
+				}
+				15 = {
+					set_graphical_culture = bedouin_arabic
+				}			
+			}
+		}
+		###Solian/Hegemonian Hybrid Event
+		IF = {
+			limit = {
+				OR = {
+					AND = {
+						father_even_if_dead = { 				
+							###Altered Father
+							graphical_culture  = hegemoniangfx
+						}	
+						mother_even_if_dead = { 
+							###Solian Mother
+							graphical_culture  = soliangfx
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Altered Mother
+							graphical_culture  = hegemoniangfx
+						}
+						father_even_if_dead = { 	
+							###Solian Father
+							graphical_culture  = soliangfx
+						}
+					}
+				}
+			}
+			random_list = {
+				85 = {
+					set_graphical_culture = solentian
+				}
+				15 = {
+					set_graphical_culture = bedouin_arabic
 				}				
 			}
 		}
