@@ -11,6 +11,241 @@ character_event = {
 	}
 	
 	immediate = {
+		###Mariner/Solian/Solis Mariner Hybrid Event
+		IF = {
+			limit = {
+				OR = {
+					AND = {
+						father_even_if_dead = { 				
+							###Mixed Father
+							graphical_culture = mixedmarinergfx
+						}	
+						mother_even_if_dead = { 
+						###Noctian Mother
+						graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Mixed Mother
+							graphical_culture = mixedmarinergfx
+						}
+						father_even_if_dead = { 	
+							###Noctian Father
+							graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						father_even_if_dead = { 				
+							###Mixed Father
+							graphical_culture = mixedmarinergfx
+						}	
+						mother_even_if_dead = { 
+						###Solian Mother
+						graphical_culture = soliangfx 
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Mixed Mother
+							graphical_culture = mixedmarinergfx
+						}
+						father_even_if_dead = { 	
+							###Solian Father
+							graphical_culture = soliangfx 
+						}
+					}
+					AND = {
+						father_even_if_dead = { 				
+							###Random Father
+							graphical_culture = inneralbangfx 
+						}	
+						mother_even_if_dead = { 
+						###Noctian Mother
+						graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Random Mother
+							graphical_culture = inneralbangfx 
+						}
+						father_even_if_dead = { 	
+							###Noctian Father
+							graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						father_even_if_dead = { 				
+							###Random Father
+							graphical_culture = outeralbangfx 
+						}	
+						mother_even_if_dead = { 
+						###Noctian Mother
+						graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Random Mother
+							graphical_culture = outeralbangfx 
+						}
+						father_even_if_dead = { 	
+							###Noctian Father
+							graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						father_even_if_dead = { 				
+							###Random Father
+							graphical_culture = tempterrangfx 
+						}	
+						mother_even_if_dead = { 
+						###Noctian Mother
+						graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Random Mother
+							graphical_culture = tempterrangfx 
+						}
+						father_even_if_dead = { 	
+							###Noctian Father
+							graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						father_even_if_dead = { 				
+							###Random Father
+							graphical_culture = southmarsgfx 
+						}	
+						mother_even_if_dead = { 
+						###Noctian Mother
+						graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Random Mother
+							graphical_culture = southmarsgfx 
+						}
+						father_even_if_dead = { 	
+							###Noctian Father
+							graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						father_even_if_dead = { 				
+							###Random Father
+							graphical_culture = acheroniangfx
+						}	
+						mother_even_if_dead = { 
+						###Noctian Mother
+						graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Random Mother
+							graphical_culture = acheroniangfx
+						}
+						father_even_if_dead = { 	
+							###Noctian Father
+							graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						father_even_if_dead = { 				
+							###Random Father
+							graphical_culture = southmarsgfx 
+						}	
+						mother_even_if_dead = { 
+						###Noctian Mother
+						graphical_culture = soliangfx 
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Random Mother
+							graphical_culture = southmarsgfx 
+						}
+						father_even_if_dead = { 	
+							###Noctian Father
+							graphical_culture = soliangfx 
+						}
+					}
+					AND = {
+						father_even_if_dead = { 				
+							###Random Father
+							graphical_culture = marinergfx 
+						}	
+						mother_even_if_dead = { 
+						###Noctian Mother
+						graphical_culture = soliangfx 
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Random Mother
+							graphical_culture = marinergfx 
+						}
+						father_even_if_dead = { 	
+							###Noctian Father
+							graphical_culture = soliangfx 
+						}
+					}
+					AND = {
+						father_even_if_dead = { 				
+							###Random Father
+							graphical_culture = marinergfx 
+						}	
+						mother_even_if_dead = { 
+						###Noctian Mother
+						graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Random Mother
+							graphical_culture = marinergfx 
+						}
+						father_even_if_dead = { 	
+							###Noctian Father
+							graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						father_even_if_dead = { 				
+							###Random Father
+							graphical_culture = tempestgfx
+						}	
+						mother_even_if_dead = { 
+						###Noctian Mother
+						graphical_culture = noctiangfx 
+						}
+					}
+					AND = {
+						mother_even_if_dead = { 				
+							###Random Mother
+							graphical_culture = tempestgfx
+						}
+						father_even_if_dead = { 	
+							###Noctian Father
+							graphical_culture = noctiangfx 
+						}
+					}
+				}
+			}
+			random_list = {
+				90 = {
+					set_graphical_culture = mixed_mariner
+				}
+				10 = {
+					set_graphical_culture = nubian
+				}				
+			}
+		}
 		###Celestian/Altered Hybrid Event
 		IF = {
 			limit = {

@@ -558,4 +558,52 @@ mixed_race_group = {
 
 		modifier = default_culture_modifier
 	}
+	mixed_mariner = { # Mixed Mariner
+		graphical_cultures = { mixedmarinergfx trueoccitangfx occitangfx }
+		used_for_random = no
+		
+		color = { 0.55 0.42 0.04 }
+
+		male_names = {
+			Anthony Allen Akademiks Aaron Alton Artaro Alucion Asher Andor Barry Borion Blarion Benton Billion Blain Blue Bugsy Byron Brock Bruno Barrold Charon Crasher
+			Cyrus Cylmon Desmond Darkrai Darion Drake Dread Damion Dreward Dannon Danley Danion Dudley Ethan Eusine Edmar Eddy Falkner
+			Flint Furio Frank Gent Garion Gramion Grammy Graham Giovanni Hunter Harris Harion Halion Jordan Johnaris Juno Jermaine Jesse 
+			Jasper Jersey Junio Jerman Julio Jharios Klarion Kenley Kurtis Koga Klaus Kenroy Kenton Lorenzo Lebron Lee Lenard Lance Looker Larion Larys Lucimar Lucas Lucian Lucion Lucifer 
+			Marley Marlon Morty Marion Mario Montey Oreo Orban Pryce Percy Perry Peter Quavious Quenton Quarion Quavo
+			Pryce Perrywinkle Red Riley Roark Rawly Rider Ritchie Samworth Silvester Silver Steven Stone Tony Trion Talman Terry Usher Volkner Vincent
+			Vandal Vansire Victarion Vince Wilmar Wilton Wendel Welven 
+			 
+			Zapdos Entei Gary Brock
+		}
+		female_names = {
+			Adelaide Australia America Althea Anita Asia Abigail Artaria Alisa Bebe Blue Binny Beauty Brandy Blossom Blaire Candice Candy Cake Caitlin
+			Camilla Cheryl Clair Clairo Cynthia Cindy Casca Doll Doja Dej Daisy Dawn Daphney Erika Eila Eimar Elisma Elivia
+			Elia Fantina Fantasia Faire Fiona Fable Fairy Gardenia Grace Gina Haera Isamar Isla Iberia Immi
+			Issa Janine Janae Jahnaria Jayda Jasmine Jasmina Jordana Jupiter Jewel Karen Kiara Keira Kelsey Kween 
+			Kimaria Kayla Lyra Lucy Leaf Leila Laeria Laribelle Lovely Mars Mira Maylene Misty Missy Marybeth
+			Mayflower Marissa May Naera Natalie Natasha Nina Nancy Nindy Nadine Natira Natura Nalena Neryl Nelida
+			Pamela Pollen Palaria Pinaria Raevona Rania Ramona Rosa Rose Ruby Ronnie Rihanna Sparkle Sabrina Saturn Sarah Susei Simone Sariah Salisha Sabra Sula Sue Susan Summer Saweetie
+			Star Trisha Tina Tinkerbell Tiny Trillion Taria Tamera Uriah Ursula Whitney 
+	
+			Oceania Dratini Eevee Misty Dawn Hikari 
+		}
+
+		from_dynasty_prefix = ""
+		
+		male_patronym = "son of "
+		female_patronym = "daughter of "
+		prefix = yes
+
+		grammar_transform = spanish
+
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 5
+		father_name_chance = 5
+		
+		pat_grm_name_chance = 55
+		mat_grm_name_chance = 15
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+	}
 }	

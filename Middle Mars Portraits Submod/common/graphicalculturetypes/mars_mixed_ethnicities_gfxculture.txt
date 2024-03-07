@@ -45,3 +45,6 @@ altamenthgfx = {
 althegegfx = {
 	skin_tone = 1
 }
+mixedmarinergfx = {
+	skin_tone = 1
+}
